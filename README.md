@@ -8,12 +8,6 @@
 
 - React Native
 
-### Gostou? Foi válido para você? 😍
+# 1% Melhor que ontem!
 
-_Marca a ⭐, assim o conhecimento segue para outros Devs!_
-
----
-
-# Seja melhor que ontem!
-
-Feito com 💙 por [Rodrigo Fraga](https://www.linkedin.com/in/rodrigofragaferreira/)
+By Jariel Floriano
